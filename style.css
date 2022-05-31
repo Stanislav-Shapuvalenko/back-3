@@ -1,0 +1,29 @@
+body {
+  background-color: #8A2BE2;
+}
+
+
+header{
+ background-color: #9400D3;
+ height: 80px;
+ font-size: 35pt;
+ font-weight: bolder;
+}
+
+
+#cont {
+    padding: 15px;
+  background-color: #9400D3;
+  width: 60rem;
+}
+
+
+p {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+footer{
+    background-color: #9400D3;
+    height: 80px;
+}
